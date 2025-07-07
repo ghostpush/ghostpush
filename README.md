@@ -10,13 +10,13 @@
 
 💻 *Ideas bloom here before they see the light.*
 
-Welcome to my private development vault — a space where raw, original app concepts are nurtured before they’re ready for the world. This GitHub is invite-only to protect early-stage projects and ensure their integrity as I build my career in tech. Thank you for understanding.
+Welcome to my private development vault; a space where raw, original app concepts are nurtured before they’re ready for the world. This GitHub is invite-only to protect early-stage projects and ensure their integrity as I build my career in tech. Thank you for understanding.
 
 ---
 
 ## 🚧 Why is this private?
 
-Out of respect for the time, creativity, and passion I invest in building innovative software, this repository is kept private. It’s a protective step to ensure the originality of my ideas and the long-term success of future releases. If you’re an employer, collaborator, or curious developer, I welcome transparency — just reach out!
+Out of respect for the time, creativity, and passion I invest in building innovative software, this repository is kept private. It’s a protective step to ensure the originality of my ideas and the long-term success of future releases. If you’re an employer, collaborator, or curious developer, I welcome transparency.. just reach out!
 
 ---
 
